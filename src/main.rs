@@ -11,7 +11,7 @@ use args::FileDartArgs;
 use clap::Parser;
 
 pub const PROGRAM_NAME: &str = "filedart";
-pub const DEFAULT_API_URL: &str = "http://localhost:4000/";
+pub const DEFAULT_API_URL: &str = "http://gr3.techstar.host:55582/";
 pub const TOKEN: &str = "jeaRbskjaadZaVqTKy";
 
 // enum defining each command
